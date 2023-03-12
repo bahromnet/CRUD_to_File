@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1k2oDm/XvadHUnlw77V9KIb11HL9TGPb2Z0J5sAU3AOMMscBV/vEOkzFa3S3GVK/wYQGGGRJ80Xi2IqVXVy43A==",
+  "success": true,
+  "projectFilePath": "E:\\ProGraM\\DotNet\\VisualStudio_Programms\\CRUD_To_File\\CRUD_To_File\\CRUD_To_File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akramov_Developer\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Akramov_Developer\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Akramov_Developer\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

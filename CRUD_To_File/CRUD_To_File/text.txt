@@ -1,0 +1,20 @@
+id: 1
+Name: Boltavoy
+Address: Andijon
+----------------------
+id: 4
+Name: Bahrom
+Address: Toshkent
+----------------------
+id: 5
+Name: Salom
+Address: Dunyo
+----------------------
+id: 2
+Name: Halim 
+Address: Salom
+----------------------
+id: 9
+Name: Jone
+Address: UZB
+----------------------
